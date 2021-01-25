@@ -2,6 +2,8 @@
 
 This is a cronjob script to check a list of services for valid TLS certificates.
 
+License: MIT
+
 ## Configuration Example
 
 Example to periodically check the XMPP Standards Foundation's XMPP and HTTPS services, 
